@@ -1,0 +1,8 @@
+Pillow
+pandas
+numpy
+flask
+werkzeug
+get
+requests
+opencv-python
